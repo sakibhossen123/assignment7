@@ -1,5 +1,6 @@
 import "./App.css";
 import Banner from "./component/Banner";
+import Footer from "./component/Footer";
 
 import Navbar from "./component/navbar";
 
@@ -8,8 +9,7 @@ function App() {
     <>
       <Navbar />
       <Banner />
-
-      <h1>refr</h1>
+      <Footer />
     </>
   );
 }
