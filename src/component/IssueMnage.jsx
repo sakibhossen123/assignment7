@@ -39,7 +39,7 @@ const IssueMnage = ({
   // console.log(taskStatas);
 
   return (
-    <div className="md:grid md:grid-cols-4 gap-3.5 max-w-[1280px] px-5 mx-auto flex flex-col-reverse">
+    <div className="md:grid md:grid-cols-4 gap-3.5 max-w-[1400px] px-5 mx-auto flex flex-col-reverse">
       <div className="grid h-fit md:grid-cols-2 col-span-3">
         {mainData.map((issue) => (
           <IssueCard
