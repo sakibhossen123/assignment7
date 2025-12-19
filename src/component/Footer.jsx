@@ -33,10 +33,10 @@ const Footer = () => {
       </div>
       <div>
         <h3 className="font-bold">Social Links</h3>
-        <p className="text-gray-400 py-1"><span className='text-white'><i class="fa-brands fa-x-twitter"></i></span> @CS — Ticket System</p>
-        <p className="text-gray-400 py-1"><span className='text-white'><i class="fa-brands fa-linkedin-in"></i></span> @CS — Ticket System</p>
-        <p className="text-gray-400 py-1"><span className='text-white'><i class="fa-brands fa-facebook"></i></span> @CS — Ticket System</p>
-        <p className="text-gray-400 py-1"><span className='text-white'><i class="fa-solid fa-envelope"></i></span>support@cst.com</p>
+        <p className="text-gray-400 py-1"><span className='text-white'><i className="fa-brands fa-x-twitter"></i></span> @CS — Ticket System</p>
+        <p className="text-gray-400 py-1"><span className='text-white'><i className="fa-brands fa-linkedin-in"></i></span> @CS — Ticket System</p>
+        <p className="text-gray-400 py-1"><span className='text-white'><i className="fa-brands fa-facebook"></i></span> @CS — Ticket System</p>
+        <p className="text-gray-400 py-1"><span className='text-white'><i className="fa-solid fa-envelope"></i></span>support@cst.com</p>
       </div>
     </div>
     <hr className="mt-11 text-gray-400" />

@@ -2,109 +2,109 @@
   {
     "id": 1,
     "title": "Login issue",
-    "description": "User unable to log into the account with correct credentials.",
-    "customer": "John Doe",
+    "description": "User unable to login with valid credentials",
+    "customer": "Acme Corp",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2025-09-25T09:15:00Z"
+    "createdAt": "2025-09-01T09:15:00Z"
   },
   {
     "id": 2,
-    "title": "Payment failed",
-    "description": "Customer reported a payment failure while using a credit card.",
-    "customer": "Jane Smith",
-    "priority": "Medium",
+    "title": "Payment gateway error",
+    "description": "Transactions failing intermittently on checkout",
+    "customer": "BrightMart",
+    "priority": "Critical",
     "status": "In Progress",
-    "createdAt": "2025-09-24T14:42:00Z"
+    "createdAt": "2025-09-02T14:22:00Z"
   },
   {
     "id": 3,
-    "title": "Broken image on homepage",
-    "description": "Main banner image does not load on Chrome browsers.",
-    "customer": "Alice Johnson",
+    "title": "UI alignment bug",
+    "description": "Header navigation overlaps on mobile view",
+    "customer": "TechNova",
     "priority": "Low",
     "status": "Open",
-    "createdAt": "2025-09-22T10:10:00Z"
+    "createdAt": "2025-09-03T11:05:00Z"
   },
   {
     "id": 4,
-    "title": "App crashes on startup",
-    "description": "Mobile app crashes immediately after launch on iOS 17.",
-    "customer": "Bob Lee",
-    "priority": "Critical",
+    "title": "API timeout",
+    "description": "Search API taking longer than expected to respond",
+    "customer": "NextWave",
+    "priority": "Medium",
     "status": "Open",
-    "createdAt": "2025-09-27T08:30:00Z"
+    "createdAt": "2025-09-04T16:40:00Z"
   },
   {
     "id": 5,
-    "title": "Email notifications not received",
-    "description": "Customer is not getting any email notifications for updates.",
-    "customer": "Chris Martin",
-    "priority": "High",
-    "status": "Open",
-    "createdAt": "2025-09-23T16:20:00Z"
+    "title": "Broken image link",
+    "description": "Product page banner not loading properly",
+    "customer": "Acme Corp",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-09-05T08:10:00Z"
   },
   {
     "id": 6,
-    "title": "Slow loading dashboard",
-    "description": "Dashboard takes over 15 seconds to load on desktop.",
-    "customer": "Emily Clark",
-    "priority": "Medium",
+    "title": "Email not delivered",
+    "description": "Order confirmation emails not being sent",
+    "customer": "BrightMart",
+    "priority": "High",
     "status": "In Progress",
-    "createdAt": "2025-09-21T11:50:00Z"
+    "createdAt": "2025-09-06T12:30:00Z"
   },
   {
     "id": 7,
-    "title": "Missing data in reports",
-    "description": "Some reports are missing data for the last week.",
-    "customer": "George Hall",
-    "priority": "High",
+    "title": "Search filter not working",
+    "description": "Category filter does not update search results",
+    "customer": "TrendLine",
+    "priority": "Medium",
     "status": "Open",
-    "createdAt": "2025-09-20T13:40:00Z"
+    "createdAt": "2025-09-07T15:45:00Z"
   },
   {
     "id": 8,
-    "title": "Cannot reset password",
-    "description": "Password reset email not being sent to user.",
-    "customer": "Isla Wright",
-    "priority": "Medium",
+    "title": "Security vulnerability",
+    "description": "Outdated library detected in backend services",
+    "customer": "TechNova",
+    "priority": "Critical",
     "status": "Open",
-    "createdAt": "2025-09-26T07:45:00Z"
+    "createdAt": "2025-09-08T10:00:00Z"
   },
   {
     "id": 9,
-    "title": "Incorrect billing amount",
-    "description": "User was charged twice for the same invoice.",
-    "customer": "Liam Scott",
-    "priority": "Critical",
+    "title": "Slow page load",
+    "description": "Home page taking more than 5 seconds to load",
+    "customer": "NextWave",
+    "priority": "High",
     "status": "In Progress",
-    "createdAt": "2025-09-25T17:05:00Z"
+    "createdAt": "2025-09-09T13:55:00Z"
   },
   {
     "id": 10,
-    "title": "Feature request: Dark mode",
-    "description": "User requested the ability to enable dark mode in settings.",
-    "customer": "Nina Lopez",
-    "priority": "Low",
-    "status": "In Progress",
-    "createdAt": "2025-09-19T12:15:00Z"
+    "title": "Cart item mismatch",
+    "description": "Items disappearing after refresh",
+    "customer": "BrightMart",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-10T09:25:00Z"
   },
   {
     "id": 11,
-    "title": "System timeout error",
-    "description": "Session expires too quickly when user is inactive for 2 minutes.",
-    "customer": "Oliver King",
-    "priority": "Medium",
-    "status": "Open",
-    "createdAt": "2025-09-26T15:00:00Z"
+    "title": "Translation error",
+    "description": "Incorrect text displayed in French version",
+    "customer": "GlobalShop",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-09-11T11:50:00Z"
   },
   {
     "id": 12,
-    "title": "Bug in search functionality",
-    "description": "Search returns incomplete or unrelated results.",
-    "customer": "Paula Adams",
-    "priority": "High",
-    "status": "In Progress",
-    "createdAt": "2025-09-27T10:25:00Z"
+    "title": "Inventory sync issue",
+    "description": "Stock levels not updating across warehouses",
+    "customer": "Acme Corp",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-12T17:15:00Z"
   }
 ]

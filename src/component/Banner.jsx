@@ -9,7 +9,7 @@ const Banner = ({ InProgress, Resolved }) => {
         <img className="h-fit w-1/3" src={banImg1} alt="" />
 
         <div className="w-1/3">
-          <p>In-Progress s</p>
+          <p>In-Progress</p>
           <h1 className="text-3xl font-bold">{InProgress}</h1>
         </div>
 
