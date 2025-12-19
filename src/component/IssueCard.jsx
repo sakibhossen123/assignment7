@@ -45,9 +45,9 @@ const IssueCard = ({
             <p
               className={`${
                 issue?.priority === "Critical"
-                  ? "text-red-600"
+                  ? "text-red-700"
                   : issue?.priority === "High"
-                  ? "text-red-400"
+                  ? "text-red-500"
                   : issue?.priority === "Medium"
                   ? "text-yellow-500"
                   : issue?.priority === "Low"
